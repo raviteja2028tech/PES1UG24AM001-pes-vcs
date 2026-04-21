@@ -1,5 +1,7 @@
 # Building PES-VCS — A Version Control System from Scratch
 
+NAME:A RAVI TEJA
+PES1UG24AM001
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
 **Platform:** Ubuntu 22.04
@@ -39,7 +41,7 @@ make clean    # Remove all build artifacts
 PES-VCS reads the author name from the `PES_AUTHOR` environment variable:
 
 ```bash
-export PES_AUTHOR="Your Name <PESXUG24CS042>"
+export PES_AUTHOR="A RAVI TEJA PES1UG24AM001"
 ```
 
 If unset, it defaults to `"PES User <pes@localhost>"`.
